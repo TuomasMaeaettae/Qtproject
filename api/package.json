@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "forever": "^4.0.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuomasMaeaettae/Qtproject.git"
+  },
+  "author": "TuomasMaeaettae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuomasMaeaettae/Qtproject/issues"
+  },
+  "homepage": "https://github.com/TuomasMaeaettae/Qtproject#readme"
+}
